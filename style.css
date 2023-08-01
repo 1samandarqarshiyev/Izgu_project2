@@ -59,6 +59,7 @@ main .container .row img {
 main .carousel .container .row a span {
   background-color: rgb(224, 221, 221);
   border-radius: 15px;
+  border: 1px rgb(255, 255, 255) solid;
 }
 
 section {
